@@ -1,5 +1,6 @@
-streamlit
-scikit-learn
+gradio
 pandas
-numpy
-matplotlib
+scikit-learn
+gTTS
+SpeechRecognition
+
