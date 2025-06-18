@@ -9,10 +9,8 @@ Original file is located at
 
 
 
-pip install gradio gTTS pygame openai-whisper pandas scikit-learn
-
 # %%
-!pip install gradio gTTS pygame openai-whisper pandas scikit-learn SpeechRecognition
+
 
 import pandas as pd
 from sklearn.linear_model import LogisticRegression
